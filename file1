@@ -1,7 +1,6 @@
 Hello Welcome
 This is first line
-<<<<<<< HEAD
+
 This is third line added in cli at 4:44
-=======
+
 This is the second line in github page.
->>>>>>> 90db96650fee188a1ba000805d526d8bf22b4fb3
